@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+##Growth Mindset
+#A growth mindset is basically when someone loves to learn.
 
-You can use the [editor on GitHub](https://github.com/Drw2366/Reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Drw2366/Reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*Here are some examples of growth mindset.*
+1. Challenges > When you are faced with a coding challenge, the best thing to do is to step back and walk away from it. 
+3. Obstacles  > When you are faced with an obstacle, the best thing to do is look for alternative ways to solve the problem.
+4. Criticism  > When you are faced with criticism, think about it like, you are gonna make mistakes. 
