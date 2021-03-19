@@ -14,3 +14,6 @@
 5. *Effort*      A **Fixed Mindset** views *Effort* as fruitless. A **Growth Mindset** looks at it as "no pain, no gain." 
 6. *Criticism*   A **Fixed Mindset** ignores *Criticism*. A **Growth Mindset** learns from criticsim. 
 7. *Success of Others* A **Fixed Mindset** views the *Success of Others* as a threat. A **Growth Mindset** gets inspired by the success of others. 
+
+
+[TERMINAL](Terminal.md)
