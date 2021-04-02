@@ -18,3 +18,10 @@
 
 [TERMINAL](Terminal.md)
 [Learninggithub](Learninggithub.md)
+[8operatorsandloops](8operatorsandloops.md)
+[Read_06a](Read_06a.md)
+[computers](computers.md)
+[css](css.md)
+[html](html.md)
+[programmingwithjs07](programmingwithjs07.md)
+[wireframes](wireframes.md)
