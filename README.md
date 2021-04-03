@@ -16,12 +16,13 @@
 7. *Success of Others* A **Fixed Mindset** views the *Success of Others* as a threat. A **Growth Mindset** gets inspired by the success of others. 
 
 
-# 1. [TERMINAL](Terminal.md)
-# 2. [Learninggithub](Learninggithub.md)
-# 3. [8operatorsandloops](8operatorsandloops.md)
-# 4. [Read_06a](Read_06a.md)
-# 5. [computers](computers.md)
-# 6. [css](css.md)
-# 7. [html](html.md)
-# 8. [programmingwithjs07](programmingwithjs07.md)
-# 9. [wireframes](wireframes.md)
+##### 1. [TERMINAL](Terminal.md)
+##### 2. [Learninggithub](Learninggithub.md)
+##### 3. [8operatorsandloops](8operatorsandloops.md)
+##### 4. [Read_06a](Read_06a.md)
+##### 5. [computers](computers.md)
+##### 6. [css](css.md)
+##### 7. [html](html.md)
+##### 8. [programmingwithjs07](programmingwithjs07.md)
+##### 9. [wireframes](wireframes.md)
+##### 10. [masteringgithubpages](masteringghpages.md)
