@@ -1,3 +1,17 @@
+# What is a Text Editor? 
+#### A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site.
+
+# What features should you look for in a text editor?
+
+#### 1. Code Completion
+#### 2. Syntax Highlighting
+#### 3. variety of themes
+#### 4. he ability to choose from a healthy selection of extensions
+
+
+![image](https://user-images.githubusercontent.com/74502839/113464025-c66a6a00-93f7-11eb-8547-ddd6433cc3bf.png)
+
+
 # What is a command line?
 ![image](https://user-images.githubusercontent.com/74502839/111661906-d5d99880-87e5-11eb-9f07-2398712fb0c5.png)
 
@@ -22,3 +36,4 @@
  
 # Absolute Path 
 ### This tells you where the file or directory orginated from. 
+
