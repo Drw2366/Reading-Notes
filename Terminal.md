@@ -37,4 +37,4 @@
 # Absolute Path 
 ### This tells you where the file or directory orginated from. 
 
-[Terminal](TERMINAL)
+[Terminal](https://drw2366.github.io/Reading-notes/Terminal.html)
