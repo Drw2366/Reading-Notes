@@ -16,6 +16,9 @@
 # You can create a *Branch* 
 ![image](https://user-images.githubusercontent.com/74502839/111910056-247d7180-8a36-11eb-8219-d3f86ec5a2e2.png)
 
+# Git clone
+### This allows you to clone your repository to your terminal. Once you clone your repo to your terminal, you can open it in vscode or which ever text editor you prefer. 
+
 
 # You can make changes and then  *Commit*
 ![image](https://user-images.githubusercontent.com/74502839/111910074-470f8a80-8a36-11eb-960e-1b0859062105.png)
