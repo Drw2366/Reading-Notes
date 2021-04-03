@@ -9,4 +9,4 @@
 ![image](https://user-images.githubusercontent.com/74502839/113463436-9ae58080-93f3-11eb-9e21-f940b7213827.png)
 
 
-[masterghpages](masteringgithubpages)
+[masterghpages](https://drw2366.github.io/Reading-notes/masteringghpages.html)
