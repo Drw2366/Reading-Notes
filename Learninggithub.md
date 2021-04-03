@@ -16,10 +16,20 @@
 # You can create a *Branch* 
 ![image](https://user-images.githubusercontent.com/74502839/111910056-247d7180-8a36-11eb-8219-d3f86ec5a2e2.png)
 
+
 # You can make changes and then  *Commit*
 ![image](https://user-images.githubusercontent.com/74502839/111910074-470f8a80-8a36-11eb-960e-1b0859062105.png)
 
 # You can also *Merge* your *Pull Request*
 ![image](https://user-images.githubusercontent.com/74502839/111910140-876f0880-8a36-11eb-80dd-0d840e8d21bd.png)
+
+# Git remote -m "" 
+#### This allows you to leave a message before you are about to push up code.
+# Git Status 
+#### This allows you to know what status your terminal is in before you decide to do anything. 
+# Git Push 
+#### This allows you to push code up to github
+# Git Pull
+#### This lets you know if your push is up to date.
 
 [learninggithub](https://drw2366.github.io/Reading-notes/Learninggithub.html)
