@@ -24,3 +24,6 @@
 #### A *CPU* is a Central Processing Unit
 ### CPU performs basic arithmetic, logic, controlling, and input/output (I/O) operations specified by the instructions in the program
 ![image](https://user-images.githubusercontent.com/74502839/112741506-6cc7f280-8f54-11eb-8c21-d95c030277e3.png)
+
+
+[computer](https://drw2366.github.io/Reading-notes/computers.html)
