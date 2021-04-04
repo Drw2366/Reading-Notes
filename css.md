@@ -11,3 +11,6 @@
 ### 4. A *Values* specific the settings you want to use for the chosen properties.
 ## The **Link** element can be used in an *HTML* document to tell the browser where to find the *CSS* file used to style the page. 
 ![image](https://user-images.githubusercontent.com/74502839/112727317-6572fb80-8ef8-11eb-8a0b-5953ea48e118.png)
+
+
+[css](https://drw2366.github.io/Reading-notes/css.html)
