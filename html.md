@@ -21,4 +21,7 @@
  ### The <article> elements acts as a container for any section of a page that could stand alone and potentially be syndicated
  # Section
  ### The <section> elements groups related content together, and typically each section would have its own heading.
+ # Heading Groups
+ #### The prupose of the <hgroup> is togroup together a set of one or more <h1> through <h6> elements so they are treated as one single heading
  
+[html](html)
