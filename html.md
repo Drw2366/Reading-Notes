@@ -24,6 +24,6 @@
 ### The ection elements groups related content together, and typically each section would have its own heading.
 # Heading Groups
 #### The prupose of the hgroup is togroup together a set of one or more h1 through h6 elements so they are treated as one single
- heading
+ 
  
 [html](https://drw2366.github.io/Reading-notes/html.html)
