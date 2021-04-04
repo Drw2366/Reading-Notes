@@ -25,3 +25,6 @@
 #### The increment is run at the end of each run through the for loop. i++ is just short hand for i = i + 1, which you might recognize as the counter pattern.
 
 ![image](https://user-images.githubusercontent.com/74502839/113021267-6b174e00-9151-11eb-99a6-959986602913.png)
+
+
+[loops](https://drw2366.github.io/Reading-notes/8operatorsandloops.html)
