@@ -1,3 +1,4 @@
+
 # Growth Mindset
 
 ## What is a growth mindset?
@@ -15,7 +16,7 @@
 6. *Criticism*   A **Fixed Mindset** ignores *Criticism*. A **Growth Mindset** learns from criticsim. 
 7. *Success of Others* A **Fixed Mindset** views the *Success of Others* as a threat. A **Growth Mindset** gets inspired by the success of others. 
 
-
+### Code 102 Reading Notes
 ##### 1. [TERMINAL](Terminal.md)
 ##### 2. [Learninggithub](Learninggithub.md)
 ##### 3. [8operatorsandloops](8operatorsandloops.md)
@@ -27,3 +28,6 @@
 ##### 9. [wireframes](wireframes.md)
 ##### 10. [masteringgithubpages](masteringghpages.md)
 ##### 11. [Growth](https://drw2366.github.io/Reading-notes/)
+
+### Code 201 Reading Notes
+#### 1.
